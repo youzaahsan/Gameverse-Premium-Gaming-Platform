@@ -1,0 +1,6 @@
+{
+  "name": "GameVerse",
+  "description": "Premium gaming platform and community. Live tournaments, futuristic interactive game catalog, and advanced eSports statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
